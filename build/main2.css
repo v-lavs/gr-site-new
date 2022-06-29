@@ -829,6 +829,7 @@
 
   .tech-data-car .vehicles-list__item {
     padding: 0 0 30px;
+    width: 100%;
   }
 
   .inform-rental .form-group-middle,
@@ -859,7 +860,9 @@
     max-width: 470px;
     overflow: auto;
   }
-
+  .tech-data-car .vehicles-list{
+    padding: 0 5px 5px;
+  }
   .modal__close {
     width: 20px;
     height: 20px;
