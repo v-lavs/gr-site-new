@@ -860,9 +860,7 @@
     max-width: 470px;
     overflow: auto;
   }
-  .tech-data-car .vehicles-list{
-    padding: 0 5px 5px;
-  }
+
   .modal__close {
     width: 20px;
     height: 20px;
